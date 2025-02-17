@@ -172,6 +172,18 @@ text-align:center;
 	text-align:center;
 	
 }
+.dcolumn2{
+	display:inline-block;
+	vertical-align:bottom;
+	width:80%;
+	height:350px;
+	padding:20px;
+	margin:5px;
+	text-align:center;
+	
+}
+
+
 .section_title{
 padding:20px;
 font-size:35px;
