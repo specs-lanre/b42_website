@@ -1,0 +1,19 @@
+/*select elements by tag names*/
+h3{color:#b00c5e;}
+
+p{border-style:solid;
+border-color:#1376b6;
+border-width:3px;}
+
+
+#some_id{padding-top:20px;
+border-style:solid;
+border-color:green;
+border-width:3px;}
+
+#some_class{
+	padding-top:20px;
+		padding-bottom:20px;
+border-style:solid;
+border-color:#b69013 ;
+border-width:3px;}
